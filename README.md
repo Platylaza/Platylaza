@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Platylaza
 - 👀 I’m interested in Unity Game Development, Minecraft datapacks, and Minecraft Fabric Modding.
-- 🌱 I’m currently learning Minecraft Fabric Modding.
+- 🌱 I’m currently learning PHP and general web development
 - 📫 How to reach me: Platylaza on discord
 
 <!---
